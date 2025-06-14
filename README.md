@@ -2,3 +2,4 @@
 ## Pierwsze repo na kierunku DevOps
 # Drugi wpis do readme
 trzeci wpis do readme
+czwarty wpis do readme
